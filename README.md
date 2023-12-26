@@ -1,2 +1,2 @@
 # PIPE-LINE-DE-DADOS-01
-Extraindo dados do MongoDB e  fazendo alterações necessárias, para salva em arquivos CSV afim de disponibilizar para o time de business intelligence.
+Esse arquivo representa o ultimo passo na cadeia de um projeto simples de ETL, no presente arquivo ele apresenta a alimentação de um banco de dados com arquivos .CSV
